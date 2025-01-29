@@ -1,2 +1,3 @@
 # EyeDetection
-Eye Detection using Machine Learning 
+Eye Detection AI
+
